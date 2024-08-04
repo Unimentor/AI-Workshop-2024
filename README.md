@@ -5,7 +5,7 @@ Welcome to the AI Workshop! This repository contains materials and example codes
 
 ## Contents
 
-1. **Basics of Python**
+1. *Basics of Python*
    - Strings
    - Input Statement
    - Decision Making Statements
@@ -17,7 +17,7 @@ Welcome to the AI Workshop! This repository contains materials and example codes
    - Pandas
    - Matplotlib
 
-2. **Machine Learning**
+2. *Machine Learning*
    - Implementation of ML Algorithms:
      - Linear Regression (from scratch and by scikit learn)
      - Logistic Regression
